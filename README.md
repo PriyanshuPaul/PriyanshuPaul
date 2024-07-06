@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Paul</h1>
-<h3 align="center">A passionate frontend web developer from India. Trying to expertise in Full Stack Web Development based on mordern Javascript Libraries</h3>
+<h3 align="center">A passionate web developer from India. Trying to expertise in Full Stack Web Development based on mordern Javascript Libraries and Frameworks</h3>
 
 - 🔭 I’m currently working for **Accenture Solutions Pvt. Limited**
 
