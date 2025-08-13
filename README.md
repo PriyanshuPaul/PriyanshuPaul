@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working for **Accenture Solutions Pvt. Limited**
 
-- 🌱 I’m currently learning **React, NodeJS, Docker**
-
 - 💬 Ask me about **Angular, Javascript, Typescript, NodeJS**
 
 - 📫 How to reach me **priyanshupaul23@gmail.com**
